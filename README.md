@@ -54,7 +54,7 @@ It fetches data directly from **Yahoo Finance** and provides interactive visuali
    **Windows:**
    ```bash
    python -m venv .venv
-   .venv\Scripts\activate
+   .\.venv\Scripts\Activate.ps1
    ```
 
    **Mac/Linux:**
